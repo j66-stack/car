@@ -7,7 +7,7 @@
 # 运行说明
 地址： https://cloud.baidu.com/
 1. 前往百度智能云平台注册账号，申请图像识别API密钥（注册有免费的额度）；
-2. 将获取到的 API Key、Secret Key 填入配置；
+2. 将获取到的 API Key、Secret Key 填入file文件下的key文件配置；
 3. 安装项目所需依赖包后启动 main.py。
 
 # 免责声明
