@@ -5,7 +5,7 @@
 本程序通过网络请求调用百度开放平台图像识别API完成车牌解析，本地不内置训练模型。
 
 # 安装依赖
-依赖文件pyproject.toml
+依赖文件pyproject.toml        
 pip install -e .
 
 # 运行说明
